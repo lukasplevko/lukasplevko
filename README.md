@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lukasplevko
 - 👀 I’m interested in Javascript and frontend overall
-- 🌱 I’m currently learning Vue
 - 💞️ I’m looking to collaborate on whatever, im open to anything
 - 📫 How to reach me lukas.plevk01@gmail.com
 
